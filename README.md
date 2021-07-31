@@ -14,3 +14,6 @@ https://remix.xinfin.network/#optimize=false&evmVersion=null&version=soljson-v0.
 
 Get test xdc from xinfin fucet.
 https://faucet.apothem.network/
+
+@ Compile 
+XRC1155TOKEN.sol
