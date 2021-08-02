@@ -2,7 +2,7 @@
 XRC-1155: Smart Contract  Deployment
 Requirements:
 
-Solidity 0.5
+Solidity 0.5.4
 
 @ Setup
 
