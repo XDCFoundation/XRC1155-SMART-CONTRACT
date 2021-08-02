@@ -16,4 +16,5 @@ Get test xdc from xinfin fucet.
 https://faucet.apothem.network/
 
 @ Compile 
+Compiler version = 0.5.4
 XRC1155TOKEN.sol
